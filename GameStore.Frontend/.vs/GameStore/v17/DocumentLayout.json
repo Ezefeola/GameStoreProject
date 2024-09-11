@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ezefe\\OneDrive\\Desktop\\Contenedor\\Proyectos\\Proyectos\\.NET\\Blazor\\GameStore\\GameStore.Frontend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55246880-139A-4AAD-AD1E-C0DA4DC420C0}|GameStore.Frontend\\GameStore.Frontend.csproj|c:\\users\\ezefe\\onedrive\\desktop\\contenedor\\proyectos\\proyectos\\.net\\blazor\\gamestore\\gamestore.frontend\\gamestore.frontend\\components\\pages\\editgame.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55246880-139A-4AAD-AD1E-C0DA4DC420C0}|GameStore.Frontend\\GameStore.Frontend.csproj|solutionrelative:gamestore.frontend\\components\\pages\\editgame.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55246880-139A-4AAD-AD1E-C0DA4DC420C0}|GameStore.Frontend\\GameStore.Frontend.csproj|c:\\users\\ezefe\\onedrive\\desktop\\contenedor\\proyectos\\proyectos\\.net\\blazor\\gamestore\\gamestore.frontend\\gamestore.frontend\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55246880-139A-4AAD-AD1E-C0DA4DC420C0}|GameStore.Frontend\\GameStore.Frontend.csproj|solutionrelative:gamestore.frontend\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EditGame.razor",
+              "DocumentMoniker": "C:\\Users\\ezefe\\OneDrive\\Desktop\\Contenedor\\Proyectos\\Proyectos\\.NET\\Blazor\\GameStore\\GameStore.Frontend\\GameStore.Frontend\\Components\\Pages\\EditGame.razor",
+              "RelativeDocumentMoniker": "GameStore.Frontend\\Components\\Pages\\EditGame.razor",
+              "ToolTip": "C:\\Users\\ezefe\\OneDrive\\Desktop\\Contenedor\\Proyectos\\Proyectos\\.NET\\Blazor\\GameStore\\GameStore.Frontend\\GameStore.Frontend\\Components\\Pages\\EditGame.razor",
+              "RelativeToolTip": "GameStore.Frontend\\Components\\Pages\\EditGame.razor",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T03:07:32.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\ezefe\\OneDrive\\Desktop\\Contenedor\\Proyectos\\Proyectos\\.NET\\Blazor\\GameStore\\GameStore.Frontend\\GameStore.Frontend\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "GameStore.Frontend\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\ezefe\\OneDrive\\Desktop\\Contenedor\\Proyectos\\Proyectos\\.NET\\Blazor\\GameStore\\GameStore.Frontend\\GameStore.Frontend\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "GameStore.Frontend\\Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T02:35:53.531Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
